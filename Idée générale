@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TGBusiness3.0bot - Expert Advisor de Trading</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>TGBusiness3.0bot</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#fonctionnalites">Fonctionnalités</a></li>
+                <li><a href="#tarifs">Tarifs</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="accueil" class="hero">
+        <div class="hero-content">
+            <h2>Trading automatisé intelligent</h2>
+            <p>Maximisez vos performances avec notre Expert Advisor avancé</p>
+            <a href="#contact" class="btn">Essai gratuit</a>
+        </div>
+    </section>
+
+    <section id="fonctionnalites" class="features">
+        <h2>Fonctionnalités principales</h2>
+        <div class="feature-grid">
+            <div class="feature-card">
+                <h3>IA Adaptative</h3>
+                <p>Notre algorithme s'adapte aux conditions du marché en temps réel</p>
+            </div>
+            <div class="feature-card">
+                <h3>Multi-paires</h3>
+                <p>Tradez simultanément sur plusieurs paires de devises</p>
+            </div>
+            <div class="feature-card">
+                <h3>Gestion du risque</h3>
+                <p>Protection avancée de votre capital avec stop-loss dynamique</p>
+            </div>
+            <div class="feature-card">
+                <h3>Rapports détaillés</h3>
+                <p>Suivez vos performances avec des statistiques complètes</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="tarifs" class="pricing">
+        <h2>Nos offres</h2>
+        <div class="pricing-grid">
+            <div class="pricing-card">
+                <h3>Essai</h3>
+                <p class="price">Gratuit</p>
+                <p>14 jours d'essai</p>
+                <ul>
+                    <li>Fonctionnalités de base</li>
+                    <li>1 compte de trading</li>
+                    <li>Support par email</li>
+                </ul>
+                <a href="#contact" class="btn">Commencer</a>
+            </div>
+            <div class="pricing-card featured">
+                <h3>Abonnement</h3>
+                <p class="price">49€/mois</p>
+                <p>Accès complet</p>
+                <ul>
+                    <li>Toutes les fonctionnalités</li>
+                    <li>3 comptes de trading</li>
+                    <li>Mises à jour gratuites</li>
+                    <li>Support prioritaire</li>
+                </ul>
+                <a href="#contact" class="btn">S'abonner</a>
+            </div>
+            <div class="pricing-card">
+                <h3>Licence permanente</h3>
+                <p class="price">499€</p>
+                <p>Paiement unique</p>
+                <ul>
+                    <li>Toutes les fonctionnalités</li>
+                    <li>2 comptes de trading</li>
+                    <li>Mises à jour pendant 6 mois</li>
+                    <li>Support standard</li>
+                </ul>
+                <a href="#contact" class="btn">Acheter</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contactez-nous</h2>
+        <p>Pour toute question ou pour obtenir votre accès à TGBusiness3.0bot</p>
+        <div class="contact-info">
+            <p>Email: contact@tgbusiness30bot.com</p>
+            <p>Telegram: @TGBusiness30bot</p>
+        </div>
+        <!-- Formulaire à intégrer ultérieurement -->
+    </section>
+
+    <footer>
+        <p>&copy; 2025 TGBusiness3.0bot - Tous droits réservés</p>
+        <p><small>Les performances passées ne préjugent pas des résultats futurs. Le trading comporte des risques.</small></p>
+    </footer>
+</body>
+</html>
